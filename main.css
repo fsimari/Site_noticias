@@ -183,7 +183,7 @@ aside .noticia {
     }
 }
 
-@media  and(min-width: 1024px) {
+@media screen and(min-width: 1024px) {
     .botao-menu{
         display: none;
     }
